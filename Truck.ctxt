@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\n\ Truck\ class\ stores\ extra\ information\ about\ a\ truck\n\ is\ subclass\ of\ the\ commercial\ class\n\ @author\ (Mohammad\ Patel)\n
+comment1.params=
+comment1.target=Truck()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Truck\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getAttributes()
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=scanner
+comment4.target=void\ readData(java.util.Scanner)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Diary
+comment0.text=\n\ A\ class\ Diary\ that\ represents\ a\ "diary"\ of\ vehicle\ reservations.\n\ \n\ The\ diary\ is\ structured\ as\ a\ Map\ of\ entries\ in\ which\ each\ entry\ corresponds\ \n\ to\ a\ specific\ day.\ \ As\ the\ map\ is\ not\ accessed\ in\ a\ sequential\ fashion,\ it\n\ doesn't\ matter\ whether\ the\ actual\ map\ class\ is\ a\ TreeMap\ or\ a\ HashMap.\n\n\ @author\ D\ E\ Newton\n
+comment1.params=
+comment1.target=Diary()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Diary\n
+comment2.params=vehicleReservation
+comment2.target=void\ addReservation(VehicleReservation)
+comment2.text=\n\ Method\ for\ adding\ a\ reservation\ to\ the\ diary.\ \n\n\ @parameter\ \ \ \ \ vehicleReservation,\ of\ type\ VehicleReservation\ \n
+comment3.params=startDate\ endDate
+comment3.target=void\ printEntries(java.util.Date,\ java.util.Date)
+comment3.text=\n\ Method\ for\ displaying\ the\ reservations\ between\ specified\ dates.\ \n\n\ @parameter\ \ \ \ \ startDate,\ of\ type\ Date\n\ @parameter\ \ \ \ \ endDate,\ of\ type\ Date\n
+comment4.params=vehicleReservation
+comment4.target=void\ deleteReservation(VehicleReservation)
+comment4.text=\n\ Method\ for\ deleting\ a\ reservation\ from\ the\ diary.\ \n\n\ @parameter\ \ \ \ \ vehicleReservation,\ of\ type\ VehicleReservation\ \n
+comment5.params=date
+comment5.target=VehicleReservation[]\ getReservations(java.util.Date)
+comment5.text=\n\ Accessor\ method\ for\ returning\ all\ reservations\ that\ have\ entries\ \n\ in\ the\ diary\ for\ a\ particular\ date.\ \n\n\ @parameter\ \ \ \ \ date,\ of\ type\ Date\ \n\ @return\ \ \ \ \ \ \ \ an\ array\ of\ reservations,\ or\ null\ if\ no\ entry\ for\ that\ date\n
+numComments=6
