@@ -6,4 +6,4 @@ It is also capable of writing the a report of the vehicles that are present on t
 There are many checks in place to avoid the same vehicle to be hired on the same date and more
 
 ## picture
-![picture](https://i.gyazo.com/8dade560ea6b31e9e9c1a4fb9b2b75af.png "League")
+![picture](https://github.com/moh-patel/Vehicle-Reservation-System/blob/main/Project.PNG "League")
